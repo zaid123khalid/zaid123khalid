@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
           srcset="
             https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg
           "
-          class="source-dark"
+          class="source-light"
         />
         <source
           media="not all"
@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
         <source
           media="(prefers-color-scheme: light),(prefers-color-scheme: dark)"
           srcset="
-            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
+            https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
           "
           class="source-dark"
         />
