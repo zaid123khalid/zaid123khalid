@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
           srcset="
             https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg
           "
-          class="source-light"
+          class="source-dark"
         />
         <img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg"
