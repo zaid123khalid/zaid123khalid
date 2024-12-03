@@ -32,4 +32,6 @@ You can click the Preview link to take a look at your changes.
 <h2>My Github Stats</h2>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=zaid123khalid&theme=dark&background=000000" alt="GitHub Streak"/></a><br/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaid123khalid&theme=dark&background=000000" alt="GitHub Streak"/></a>
-![](https://komarev.com/ghpvc/?username=zaid123khalid&color=green)
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
+</a>
