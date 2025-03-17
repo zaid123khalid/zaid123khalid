@@ -3,7 +3,7 @@
 My Name is Zaid Bin Khalid
 </h2>
 <h3>
-  Experienced Mobile App Developer (Flutter)
+  Flutter Developer | Software Engineer | Open-Source Enthusiast | Linux Power User
 </h3>
 <p dir="auto">
   With expertise in developing mobile applications using google's UI framework <b>Flutter</b> I develop stunning and responsive applications. Driven by a relentless curiosity, I am now set on exploring the exciting world of AI and Robotics. With a keen interest in the future of technology, I am eager to delve into the intricacies of artificial intelligence, seeking to contribute to cutting-edge advancements in this field. Eager to Collaborate for mutual growth at the intersection of App development and AI.
